@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/vikraman05/COMPSCI732.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://Lurum@cerczeiprd01.its.auckland.ac.nz/Lurum/androidguiclient.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents" />
+    <option name="cloneParentDir" value="$USER_HOME$/Desktop" />
   </component>
 </application>
